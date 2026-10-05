@@ -4,7 +4,7 @@ Tämä on oppimispäiväkirja oikeustieteen opinnoista. Aloitin oikeustieteen op
 
 Nyt työn alla: [Johdatus oikeustieteeseen ja oikeudelliseen ajatteluun 1](https://studies.helsinki.fi/kurssit/opintojakso/otm-787ca6a7-a61f-46bb-acc3-09839154a70f/ON-100) (2 op)
 
-Termejä opiskeltu: 4
+Termejä opiskeltu: 5
 
 ## Johdatus oikeustieteeseen ja oikeudelliseen ajatteluun 1 - opittua sanastoa
 
@@ -14,3 +14,4 @@ Englanninkieliset käännökset tarkastettu [TEPA termipankista](https://termipa
 - [oikeusjärjestys](https://tieteentermipankki.fi/wiki/Oikeustiede:oikeusj%C3%A4rjestys) - legal order
 - [oikeustoimi](https://fi.wikipedia.org/wiki/Oikeustoimi) - juridical act
 - [oikeusvaltio](https://tieteentermipankki.fi/wiki/Oikeustiede:oikeusvaltio) - rule of law
+- [oikeusvaltioperiaate](https://tieteentermipankki.fi/wiki/Oikeustiede:oikeusvaltio(periaate)) - rule of law
