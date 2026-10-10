@@ -19,3 +19,4 @@ Englanninkieliset käännökset tarkastettu [TEPA termipankista](https://termipa
 - [toimeenpanovalta](https://tieteentermipankki.fi/wiki/Oikeustiede:toimeenpanovalta) - executive capacity
 - [tuomiovalta](https://tieteentermipankki.fi/wiki/Oikeustiede:tuomiovalta) - judicial power
 - [vallan kolmijako](https://tieteentermipankki.fi/wiki/Valtio-oppi:vallan_kolmijako) - separation of powers
+- [valtiosääntötuomioistuin](https://tieteentermipankki.fi/wiki/Oikeustiede:valtios%C3%A4%C3%A4nt%C3%B6tuomioistuin) - constitutional court 
