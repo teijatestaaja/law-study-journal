@@ -4,12 +4,13 @@ Tämä on oppimispäiväkirja oikeustieteen opinnoista. Aloitin oikeustieteen op
 
 Nyt työn alla: [Johdatus oikeustieteeseen ja oikeudelliseen ajatteluun 1](https://studies.helsinki.fi/kurssit/opintojakso/otm-787ca6a7-a61f-46bb-acc3-09839154a70f/ON-100) (2 op)
 
-Termejä opiskeltu: 19
+Termejä opiskeltu: 20
 
 ## Johdatus oikeustieteeseen ja oikeudelliseen ajatteluun 1 - opittua sanastoa
 
 Englanninkieliset käännökset tarkastettu [TEPA termipankista](https://termipankki.fi/tepa/fi/).
 
+- [erityistuomioistuin](https://tieteentermipankki.fi/wiki/Oikeustiede:erityistuomioistuin) - specialised court, specialised tribunal
 - [korkein hallinto-oikeus](https://tieteentermipankki.fi/wiki/Oikeustiede:korkein_hallinto-oikeus) - Supreme Administrative Court
 - [korkein oikeus](https://tieteentermipankki.fi/wiki/Oikeustiede:korkein_oikeus) - Supreme Court
 - [lainsäädäntövalta](https://fi.wiktionary.org/wiki/lains%C3%A4%C3%A4d%C3%A4nt%C3%B6valta) - legislative power
@@ -25,7 +26,7 @@ Englanninkieliset käännökset tarkastettu [TEPA termipankista](https://termipa
 - [toimeenpanovalta](https://tieteentermipankki.fi/wiki/Oikeustiede:toimeenpanovalta) - executive capacity
 - [tuomioistuin](https://tieteentermipankki.fi/wiki/Oikeustiede:laillinen_tuomioistuin) - court, tribunal
 - [tuomiovalta](https://tieteentermipankki.fi/wiki/Oikeustiede:tuomiovalta) - judicial power
-- työtuomioistuin - labour court
+- [työtuomioistuin](https://tieteentermipankki.fi/wiki/Oikeustiede:ty%C3%B6tuomioistuin) - labour court
 - [vallan kolmijako](https://tieteentermipankki.fi/wiki/Valtio-oppi:vallan_kolmijako) - separation of powers
 - [valtakunnanoikeus](https://tieteentermipankki.fi/wiki/Oikeustiede:valtakunnanoikeus) - High Court of Impeachment
 - [valtiosääntötuomioistuin](https://tieteentermipankki.fi/wiki/Oikeustiede:valtios%C3%A4%C3%A4nt%C3%B6tuomioistuin) - constitutional court 
