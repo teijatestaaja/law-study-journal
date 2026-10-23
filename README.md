@@ -4,7 +4,7 @@ Tämä on oppimispäiväkirja oikeustieteen opinnoista. Aloitin oikeustieteen op
 
 Nyt työn alla: [Johdatus oikeustieteeseen ja oikeudelliseen ajatteluun 1](https://studies.helsinki.fi/kurssit/opintojakso/otm-787ca6a7-a61f-46bb-acc3-09839154a70f/ON-100) (2 op)
 
-Termejä opiskeltu: 20
+Termejä opiskeltu: 21
 
 ## Johdatus oikeustieteeseen ja oikeudelliseen ajatteluun 1 - opittua sanastoa
 
@@ -14,6 +14,7 @@ Englanninkieliset käännökset tarkastettu [TEPA termipankista](https://termipa
 - [korkein hallinto-oikeus](https://tieteentermipankki.fi/wiki/Oikeustiede:korkein_hallinto-oikeus) - Supreme Administrative Court
 - [korkein oikeus](https://tieteentermipankki.fi/wiki/Oikeustiede:korkein_oikeus) - Supreme Court
 - [lainsäädäntövalta](https://fi.wiktionary.org/wiki/lains%C3%A4%C3%A4d%C3%A4nt%C3%B6valta) - legislative power
+- [markkinaoikeus](https://tieteentermipankki.fi/wiki/Oikeustiede:erityistuomioistuin) - Market Court
 - [oikeudellinen sääntely](https://tieteentermipankki.fi/wiki/Oikeustiede:oikeudellinen_s%C3%A4%C3%A4ntely) - legal regulation
 - [oikeudenkäyttö](https://tieteentermipankki.fi/wiki/Nimitys:oikeudenk%C3%A4ytt%C3%B6) - administration of justice
 - [oikeusjärjestys](https://tieteentermipankki.fi/wiki/Oikeustiede:oikeusj%C3%A4rjestys) - legal order
